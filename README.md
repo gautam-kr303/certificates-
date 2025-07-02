@@ -1,2 +1,2 @@
 # certificates-
- Verified credentials showcasing technical skills and domain knowledge
+ Verified credentials showcasing technical skills and domain knowledge.
